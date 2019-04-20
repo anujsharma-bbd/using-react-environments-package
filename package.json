@@ -10,6 +10,7 @@
    },
    "scripts": {
       "prestart": "node node_modules/react-environments --path=src/environments",
+      "prebuild": "node node_modules/react-environments --path=src/environments",
       "start": "react-scripts start",
       "build": "react-scripts build",
       "test": "react-scripts test",
