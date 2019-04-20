@@ -1,8 +1,1 @@
-module.exports = {
-   "baseUrl": "url ",
-   "systemName": "System w/o env",
-   "settings": {
-      "name": "test ",
-      "age": 9
-   }
-}
+module.exports = {"baseUrl":"url qa","systemName":"System QA","settings":{"name":"test QA","age":14}}
