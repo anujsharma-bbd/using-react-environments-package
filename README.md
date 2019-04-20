@@ -1,7 +1,9 @@
-# react-environments
+# using react-environments npm package
 this package really helps creating multiple environments in react js projects like we have in angular projects
 
 <i>Auther : Anuj Sharma</i>
+<br/>
+package link <a href='https://www.npmjs.com/package/react-environments'> here </a>
 
 # installing the project
 <code>npm install --save react-environments </code>
