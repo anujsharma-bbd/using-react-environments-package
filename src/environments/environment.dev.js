@@ -3,6 +3,6 @@ module.exports = {
    'systemName': 'System dev',
    'settings': {
       'name': 'test dev',
-      'age': 12
+      'age': 13
    }
 }
