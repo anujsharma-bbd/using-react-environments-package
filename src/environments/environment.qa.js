@@ -1,5 +1,5 @@
 module.exports = {
-   baseUrl: 'url qa',
+   baseUrl: 'url qa newwww',
    systemName: 'System QA',
    settings: {
       name: 'test QA',
